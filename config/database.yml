@@ -4,7 +4,8 @@ development:
   database: r2013-03-12-flirt_development
   pool: 5
   host: localhost
-  username: AdiSingh
+  username: swong2185
+  
   password:
 
 test:
@@ -13,7 +14,7 @@ test:
   database: r2013-03-12-flirt_test
   pool: 5
   host: localhost
-  username: AdiSingh
+  username: swong2185
   password:
 
 production:
@@ -22,5 +23,5 @@ production:
   database: r2013-03-12-flirt_production
   pool: 5
   host: localhost
-  username: AdiSingh
+  username: swong2185
   password:
